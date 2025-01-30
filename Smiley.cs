@@ -21,4 +21,10 @@ internal static class Smiley
     {
         Console.WriteLine(":-*");
     }
+
+    public static void Shocked()
+    {
+        Console.WriteLine(":-O");
+    }
 }
+
