@@ -6,4 +6,9 @@ internal static class Smiley
     {
         Console.WriteLine(":-)");
     }
+
+    public static void Sad()
+    {
+        Console.WriteLine(":-(");
+    }
 }
