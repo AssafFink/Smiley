@@ -6,5 +6,6 @@ internal class Program
     {
         Console.WriteLine("Smilies");
 
+        Smiley.Happy();
     }
 }
